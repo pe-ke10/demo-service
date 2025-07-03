@@ -6,6 +6,8 @@ metadata:
   annotations:
     github.com/project-slug: pe-ke10/demo-service
 spec:
+  targets:
+    - ./equipo-demo.yaml
   type: service
   lifecycle: experimental
   owner: equipo-demo
