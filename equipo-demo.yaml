@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: equipo-demo
+  description: Equipo demo encargado de los microservicios de demo
+spec:
+  type: team
+  profile:
+    displayName: Equipo Demo
+    email: equipo-demo@tudominio.com
+  children: []
