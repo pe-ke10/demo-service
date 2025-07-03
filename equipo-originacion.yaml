@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: equipo-originacion
+  description: Equipo originacion encargado de los microservicios de originacion
+spec:
+  type: team
+  profile:
+    displayName: Equipo Originacion
+    email: equipo-originacion@tudominio.com
+  children: []
