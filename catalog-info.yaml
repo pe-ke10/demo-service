@@ -3,8 +3,8 @@ kind: Component
 metadata:
   name: demo-service
   description: Servicio de prueba en GitHub
-annotations:
-  github.com/project-slug: pe-ke10/demo-service
+  annotations:
+    github.com/project-slug: pe-ke10/demo-service
 spec:
   type: service
   lifecycle: experimental
